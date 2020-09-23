@@ -6,3 +6,4 @@ Run the software and and import the bitcoin address
 Fill in the necessary details to proceed.
 Complete the process by finding your private key.
 These tools are pretty expensive and refund or exchange can be made or
+bitblockz.com
